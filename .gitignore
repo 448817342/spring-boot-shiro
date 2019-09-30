@@ -1,0 +1,14 @@
+out
+gradle
+build
+
+.idea
+.gradle
+.classpath
+.project
+.settings
+.metadata
+*.iml
+*.ipr
+.vs
+*.log
